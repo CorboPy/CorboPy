@@ -1,9 +1,7 @@
 ## Hi there, I'm Alex 👋
+**PhD student in Astrophysics** at the [**University of Bristol**](https://github.com/astro-group-bristol)
 
-- **PhD student in Astrophysics** at the [**University of Bristol**](https://github.com/astro-group-bristol)
-- **Glider pilot** at [**Bristol & Gloucestershire Gliding Club**](https://bggc.co.uk/)
-
-My research is focused on **atmospheric convection on sub-Neptunes**, and how this shapes planetary climate.
+Leading the adaption of the Met Office's new 3D modelling system, **[LFRic](https://github.com/CorboPy/lfric_apps)**, for high-resolution cloud-resolving simulations of hydrogen-dominated atmospheres in an effort to improve understanding of atmospheric convection on exoplanets.
 
 ---
 
